@@ -1,2 +1,2 @@
 # Contacts
-A simple app to display Name and Number of people.
+A simple app to randomly picker a name from an array of names.
